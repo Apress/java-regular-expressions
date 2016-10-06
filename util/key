@@ -1,0 +1,8 @@
+#java Method signature
+pattern1=\w\w+
+
+all=^.*$
+
+
+
+
